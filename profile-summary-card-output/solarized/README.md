@@ -22,3 +22,13 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/raudel25/github-profile-summary-cards/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
+```
+
+    
