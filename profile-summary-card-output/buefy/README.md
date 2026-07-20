@@ -22,13 +22,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/raudel25/github-profile-summary-cards/master/profile-summary-card-output/buefy/2-most-commit-language.svg)
-```
-
-    
